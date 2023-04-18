@@ -1,8 +1,8 @@
 ## Applied Genomics Analysis is a graduate level course at East Carolina University
 
 
-### Course objectives: 
-*"Applied Genomics Analysis focuses on the understanding and application of statistical 
+### Course objectives from syllabus: 
+*Applied Genomics Analysis focuses on the understanding and application of statistical 
 genomics and bioinformatics through the lens of contemporary technologies and software. You will gain a basic 
 understanding of:*  
 
@@ -18,8 +18,9 @@ understanding of:*
   10) *DNA methylation analysis*
   11) *multi-omics analyses*  
   
-*Your command of these topics will be essential towards satisfactory performance in the 
-remainder of the course"*
+
 ---
+
+
 ### Repo contents:
 - **Presentation**: A PDF file containing presentation slides about operations on genomic intervals in R created by Carol Gause
