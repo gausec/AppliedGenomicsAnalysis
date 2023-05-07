@@ -18,7 +18,11 @@ understanding of:*
   10) *DNA methylation analysis*
   11) *multi-omics analyses*  
   
+---
 
+### Contributors: 
+- Carol Gause
+- [Megan Linke](https://www.ecubgsa.com/officers)
 ---
 
 
