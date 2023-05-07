@@ -5,11 +5,7 @@ We are using [ANGSD](http://www.popgen.dk/angsd/index.php/ANGSD#Overview) to bet
 ### Contents
 - **KingRailBreedingRangeMap.jpg**: A JPG file with sample locations.
 - **ABBA-BABA-test.md**: Markdown file with the steps involved in the ABBA-BABA test.
----
 
-### Contributors: 
-- Carol Gause
-- [Megan Linke](https://www.ecubgsa.com/officers)
 ---
 ### King Rail Sample Populations
 <img
