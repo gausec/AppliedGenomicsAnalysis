@@ -1,8 +1,8 @@
 ## Analysis
 ---
 ### Contents
-- **Map**: A JPG file with sample locations.
-- **ABBA-BABA-test**: Markdown file with the steps involved in the ABBA-BABA test.
+- **KingRailBreedingRangeMap.jpg**: A JPG file with sample locations.
+- **ABBA-BABA-test.md**: Markdown file with the steps involved in the ABBA-BABA test.
 ---
 
 ### Contributors: 
