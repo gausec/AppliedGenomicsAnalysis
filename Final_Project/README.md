@@ -1,4 +1,6 @@
-## Analysis
+### Aim:  
+We are using [ANGSD](http://www.popgen.dk/angsd/index.php/ANGSD#Overview) to better understand gene flow between three geographically distinct populations of king rail (_Rallus elegans_). One individual from each population will be compared using [ABBABABA(D-stat)](http://www.popgen.dk/angsd/index.php/Abbababa). Our presentation of our steps and findings is located in the presentations subdirectory. 
+
 ---
 ### Contents
 - **KingRailBreedingRangeMap.jpg**: A JPG file with sample locations.
