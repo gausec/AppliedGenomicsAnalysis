@@ -23,7 +23,8 @@ understanding of:*
 
 
 ### Repo contents:
-- **Presentation**: A PDF file containing presentation slides about operations on genomic intervals in R created by Carol Gause
+- **Final_Project**: A markdown file containing information about the ABBA-BABA test we conducted for our final project.
+- **PresentationSlides**: PDF files of presentation slides created by Carol Gause & Megan Linke.
 - **bin**:
   - **jackKnife.R**: An R script for jackknifing written by [Anders Albrechtsen](https://github.com/ANGSD/angsd/blob/master/R/jackKnife.R).
-- **results**: 
+- **results**: Output files from our final project.
