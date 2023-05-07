@@ -24,3 +24,6 @@ understanding of:*
 
 ### Repo contents:
 - **Presentation**: A PDF file containing presentation slides about operations on genomic intervals in R created by Carol Gause
+- **bin**:
+  - **jackKnife.R**: An R script for jackknifing written by [Anders Albrechtsen](https://github.com/ANGSD/angsd/blob/master/R/jackKnife.R).
+- **results**: 
