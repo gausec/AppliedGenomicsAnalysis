@@ -26,7 +26,7 @@ Rscript jackKnife.R file=output.abbababa indNames=bam_list.txt outfile=out
 
 - nABBA is the count of ABBA patterns, and nBABA is the count of BABA patterns.
 - Dstat is a test statistic calculated (nABBA - nBABA) / (nABBA + nBABA).
-  - A negative Dstat value indicates that H1 is more closely related to H3 than H2 is, and a positive value indicates that H2 is more closely related to H3 than H1 is.
+  - A negative Dstat value indicates that H1 and H3 have more gene flow between then than H2, and a positive value indicates that H2 and H3 have more gene flow between them than H1.
 - JackEst is a bias-corrected estimate of the abbababa statistic (this should be similar to the Dstat).
 - SE is the estimated standard error.
 - Z is the Z-score used to determine the significance of the D-statistic test. 
