@@ -28,7 +28,9 @@ understanding of:*
 
 ### Repo contents:
 - **Final_Project**: A markdown file containing information about the ABBA-BABA test we conducted for our final project.
-- **PresentationSlides**: PDF files of presentation slides created by Carol Gause & Megan Linke.
+- **PresentationSlides**:
+   - FinalProject_Popgenomics_2023.pdf: PDF file of presentation slides created by Carol Gause & Megan Linke.
+   - Operations on Genomic Intervals.pdf: PDF file of presentation slides created by Carol Gause.
 - **bin**:
   - **jackKnife.R**: An R script for jackknifing written by [Anders Albrechtsen](https://github.com/ANGSD/angsd/blob/master/R/jackKnife.R).
 - **results**: Output files from our final project.
