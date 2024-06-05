@@ -3,7 +3,7 @@
 
 ### Course objectives from syllabus: 
 *Applied Genomics Analysis focuses on the understanding and application of statistical 
-genomics and bioinformatics through the lens of contemporary technologies and software. You will gain a basic 
+genomics and bioinformatics through the lens of contemporary technologies and software. In this course, we gained a basic 
 understanding of:*  
 
   1) *Genomics history and theory*
