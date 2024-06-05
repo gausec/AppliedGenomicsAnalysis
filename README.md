@@ -6,17 +6,17 @@
 genomics and bioinformatics through the lens of contemporary technologies and software. You will gain a basic 
 understanding of:*  
 
-  1) *genomics history and theory*
+  1) *Genomics history and theory*
   2) *R coding for genomics*
-  3) *statistical genomics*
-  4) *exploratory machine learning*
-  5) *predictive modelling*
-  6) *working with genomics intervals*
-  7) *raw data QC/filtering/alignment*
+  3) *Statistical genomics*
+  4) *Exploratory machine learning*
+  5) *Predictive modeling*
+  6) *Working with genomics intervals*
+  7) *Raw data QC/filtering/alignment*
   8) *RNS-seq analyses*
   9) *CHiP-seq analysis*
   10) *DNA methylation analysis*
-  11) *multi-omics analyses*  
+  11) *Multi-omics analyses*  
   
 ---
 
