@@ -22,7 +22,7 @@ understanding of:*
 
 ### Contributors: 
 - Carol Gause
-- [Megan Linke](https://www.ecubgsa.com/officers)
+- Megan Linke
 ---
 
 
